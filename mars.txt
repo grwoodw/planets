@@ -6,4 +6,5 @@ Materials:
   - 1 jar mayonnaise
 
 assembly instructions:
-  mix mayonnaise with jello and freeze . . .
+  mix mayonnaise with jello and freeze.
+  cut frozen material into blocks and connect with #2 pencils
