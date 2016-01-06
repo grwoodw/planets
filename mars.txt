@@ -4,3 +4,6 @@ Materials:
   - 15 #2 pencils
   - 3 boxes lime jello
   - 1 jar mayonnaise
+
+assembly instructions:
+  mix mayonnaise with jello and freeze . . .
